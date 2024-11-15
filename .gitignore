@@ -162,5 +162,7 @@ cython_debug/
 
 .idea/
 
-./oscar_nominees
-./nominees
+/oscar_nominees
+/nominees
+/oscar_nominees
+/.vscode
